@@ -1,0 +1,9 @@
+{
+  "n_total": 265,
+  "n_seeded_anomalies": 15,
+  "contamination_used": 0.05660377358490566,
+  "n_flagged": 15,
+  "n_seeded_detected": 5,
+  "anomaly_recall": 0.3333333333333333,
+  "n_false_positives": 10
+}

@@ -1,0 +1,10 @@
+transaction_id,status_ledger,status_gateway
+TXN100042,captured,failed
+TXN100215,captured,failed
+TXN100267,captured,failed
+TXN100300,captured,failed
+TXN100392,captured,failed
+TXN100414,captured,failed
+TXN100487,captured,failed
+TXN200008,chargeback,failed
+TXN300027,captured,failed

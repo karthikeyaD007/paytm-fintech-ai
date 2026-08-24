@@ -1,0 +1,9 @@
+{
+  "ledger_rows": 547,
+  "gateway_rows": 530,
+  "missing_in_gateway_count": 27,
+  "missing_in_ledger_count": 10,
+  "amount_mismatch_count": 16,
+  "status_mismatch_count": 9,
+  "match_rate_pct": 90.49
+}

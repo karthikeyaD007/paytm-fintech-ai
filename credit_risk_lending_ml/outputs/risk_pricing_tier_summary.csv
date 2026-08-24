@@ -1,0 +1,5 @@
+risk_tier,applicants,avg_predicted_pd,actual_default_rate,rate_range
+Q1 - Low Risk,25,0.020113018630985437,0.08,10% - 14%
+Q2 - Moderate Risk,25,0.07298206335387636,0.12,14% - 18%
+Q3 - Elevated Risk,25,0.2335619289343362,0.2,18% - 24%
+Q4 - High Risk,25,0.5871971377791767,0.4,24% - 32%

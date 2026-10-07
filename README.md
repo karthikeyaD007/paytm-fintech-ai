@@ -1,6 +1,6 @@
-# Paytm-style FinTech Capstone
+# Paytm-style FinTech AI
 
-A synthetic, fully reproducible FinTech capstone in three parts:
+A synthetic, fully reproducible FinTech project in three parts:
 
 1. **Payments & Fraud Analytics** (`payments_fraud_analytics/`) — SQLite,
    SQL, Excel, reconciliation, dashboard.
@@ -249,7 +249,7 @@ root covers all three parts (not one per part) — see Section 2.
 ## Repository structure
 
 ```
-paytm-fintech-capstone/
+paytm-fintech-ai/
 ├── README.md
 ├── requirements.txt
 ├── .env.example

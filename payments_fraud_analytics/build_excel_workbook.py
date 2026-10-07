@@ -1,6 +1,6 @@
 """
 Builds merchant_workbook.xlsx from merchants.csv / ledger.csv, matching the
-capstone grading rubric precisely.
+grading rubric precisely.
 
 Sheets produced:
   Merchants              - raw merchant reference data (VLOOKUP source, A2:D41)
